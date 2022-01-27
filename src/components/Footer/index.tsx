@@ -79,7 +79,7 @@ const Footer = ({ t }: any) => {
             align="middle"
             style={{ paddingTop: "3rem" }}
           >
-            <NavLink to="/">
+            <NavLink to="/yahweeh_trust">
               <LogoContainer>
                 <SvgIcon
                   src="Yahweeh.svg"
