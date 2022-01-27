@@ -1,16 +1,7 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Yahweh Charitable Trust",
+  "text": "Yahweh charitable trust for (fCS) which has been founded in the year 2021, has been working with a vision and zeal of helping hand for the underprivileged children. Our main motto is to create a society without illiteracy, poverty and homeless for one and all. We are working on various planned projects which will concentrate towards animal , birds and conservation of our nature. Lets join hands and do our part in ensuring that we leave behind a positive impact on future generations by joining our hands together. Where our actions towards a responsible society speaks louder than our words. Appreciate your valuable time given for us, hope you will do your part for a better society.",
   "section": [
-    {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
-    }
+
   ]
 }

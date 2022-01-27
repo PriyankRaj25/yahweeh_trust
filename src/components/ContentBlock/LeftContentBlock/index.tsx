@@ -1,6 +1,7 @@
 import { Row, Col } from "antd";
 import { withTranslation } from "react-i18next";
 import { SvgIcon } from "../../../common/SvgIcon";
+import { ImgIcon } from "../../../common/Image";
 import { ContentBlockProps } from "../types";
 import { Fade } from "react-awesome-reveal";
 import {
@@ -37,6 +38,7 @@ const LeftContentBlock = ({
                     section.map((item: any, id: number) => {
                       return (
                         <Col key={id} span={11}>
+                          <ImgIcon src={item.icon} width="60px" height="60px" />
                           <SvgIcon src={item.icon} width="60px" height="60px" />
                           <MinTitle>{t(item.title)}</MinTitle>
                           <MinPara>{t(item.content)}</MinPara>
